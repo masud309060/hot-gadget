@@ -1,0 +1,40 @@
+
+.container {
+    margin-bottom: 100px;
+}
+.navbar ul li a {
+    font-weight: 600;
+}
+
+.slide-bg {
+    background-color: #f1f1g1;
+    border-radius: 10px; 
+}
+.carousel-item {
+    padding: 40px 50px;
+}
+.buy-now-btn {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 8px 25px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.carousel-indicators li {
+    background-image: linear-gradient(45deg, #FF9C35,#FFD019);
+    height: 5px;
+}
+.smartphone img{
+    width: 200px;
+    margin: 50px auto;
+}
+.smartphone .card {
+    border: none;
+    background-color: ;
+}
+.card-footer {
+    border-top: none;
+    background-color: white;
+
+}
