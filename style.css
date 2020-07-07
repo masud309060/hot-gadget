@@ -54,11 +54,11 @@
 
 }
 .box {
-    width: 150px;
-    height: 10px;
+    width: 140px;
+    height: 8px;
     background-image: linear-gradient(to right,#FFC312,#f39c12);
     border-radius: 10px;
-    margin: auto; 
+    margin: auto;
 }
 
 .catagories .col-md-6 img{
