@@ -31,10 +31,50 @@
 }
 .smartphone .card {
     border: none;
-    background-color: ;
+    background-color: white;
+}
+.card {
+    box-shadow: 5px 5px 12px rgba(60,60,60,0.09);
 }
 .card-footer {
     border-top: none;
     background-color: white;
+}
+.laptop img {
+    width: 200px;
+    margin: 50px auto;
+}
+.laptop .card {
+    border: none;
+    background-color: white;
+}
+.catagories h1 {
+    text-align: center;
+    margin-bottom: 15px;
 
+}
+.box {
+    width: 150px;
+    height: 10px;
+    background-image: linear-gradient(to right,#FFC312,#f39c12);
+    border-radius: 10px;
+    margin: auto; 
+}
+
+.catagories .col-md-6 img{
+    width: 100%;
+    margin-left: 20px;
+
+}
+.img-item {
+    padding: 50px 0px;
+    background-color: white;
+    box-shadow: 0px 0px 15px rgba(60,60,60,0.2);
+    border-radius: 10px;
+    margin: 50px 8px;
+}
+footer {
+    text-align: center;
+    padding-bottom: 20px;
+    color: gray;
 }
